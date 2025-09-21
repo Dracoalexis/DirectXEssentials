@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCA512B-49FC-4FC8-8A73-C4F87D322FF2}|Engine\\Engine.vcxproj|C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCA512B-49FC-4FC8-8A73-C4F87D322FF2}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCA512B-49FC-4FC8-8A73-C4F87D322FF2}|Engine\\Engine.vcxproj|C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCA512B-49FC-4FC8-8A73-C4F87D322FF2}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.h",
+              "RelativeDocumentMoniker": "Engine\\Game.h",
+              "ToolTip": "C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.h",
+              "RelativeToolTip": "Engine\\Game.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T17:48:05.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.cpp",
+              "RelativeDocumentMoniker": "Engine\\Game.cpp",
+              "ToolTip": "C:\\Users\\MSI-NB\\Desktop\\Dev\\Chill iDirectX C\u002B\u002B\\Chili Framework 2016\\Engine\\Game.cpp",
+              "RelativeToolTip": "Engine\\Game.cpp",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAIkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T14:46:00.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
