@@ -1,0 +1,1 @@
+-Temel koordinat hesapları, döngüsel hareket ve colission 
